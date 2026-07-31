@@ -2,7 +2,7 @@
 
 **TypeScript Full-Stack Engineer · React Native / Expo**
 
-专注 Web、Node.js 与跨端 App 开发，喜欢把复杂需求沉淀为稳定、可复用的工程能力。
+Web、Node.js 与跨端 App 开发
 
 - `TypeScript` `React` `Vue` `Next.js` `NestJS`
 - `React Native` `Expo` `iOS` `Android`
