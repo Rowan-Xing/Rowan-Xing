@@ -4,7 +4,7 @@
 
 Web、Node.js 与跨端 App 开发
 
-- `TypeScript` `React` `Vue` `Next.js` `NestJS`
+- `TypeScript` `React` `Vue` `Next.js` `NestJS` `Node` `Prisma`
 - `React Native` `Expo` `iOS` `Android`
 - OTA、原生模块、IM / RTC、WebView / JSBridge、Monorepo
 - OpenAI API、RAG、pgvector 与 AI Coding
